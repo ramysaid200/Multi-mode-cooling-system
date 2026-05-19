@@ -149,6 +149,10 @@ Multi-Mode-Cooling-System/
 
 ## 👨‍💻 Author
 
-**Ramy Said**  
-8th Semester — Embedded Systems Course  
+**Ramy Said Eliwa Elsayed** 
+**David George Helmy Ekladious** 
+**Ahmed Mohamed Abdelrazik** 
+**Youssef Amer Sayed Mostafa** 
+**Salma Gamal Saadoun Ahmed** 
+Embedded Systems Course  
 Faculty of Engineering
